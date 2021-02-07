@@ -1,4 +1,10 @@
-#Here is where you will specify what items you want to disable the crafting of.
-# !!! item IDs or data tags are not allowed, only material names (Use 1.16 material list if needing to use data tags) !!!
-disable-crafting:
-  - HOPPER
+#For help with the configuration file, please visit DisableCrafting's wiki page here:
+# https://github.com/matthew-wiggins/DisableCrafting/wiki
+
+items:
+  world:
+    - HOPPER;dc.world.hopper
+  world_nether:
+    - HOPPER;dc.world_nether.hopper
+  world_the_end:
+    - HOPPER;dc.world_the_end.hopper
