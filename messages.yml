@@ -1,10 +1,10 @@
-no-permission: "&4&l[!] &cI'm sorry but you do not have permission to do this."
-cannot-craft: "&4&l[!] &cYou cannot craft that item."
+no-permission: '&4&l[!] &cYou do not have permission to do this!'
+cannot-craft: '&4&l[!] &cYou cannot craft that item.'
 commands:
-  error: "&4&l[!] &cThere was an error with your command."
+  error: '&4&l[!] &cThere was an error with your command.'
   help:
-    - "&6&l[!] &eDisableCrafting Help Page:"
-    - "  &e/disablecrafting help &8- &7Shows this help message"
-    - "  &e/disablecrafting reload &8- &7Reload the plugin's files"
+    - '&6&l[!] &eDisableCrafting Help Page:'
+    - '  &e/disablecrafting help &8- &7Shows this help message'
+    - '  &e/disablecrafting reload &8- &7Reload the plugin''s files'
   reload:
-    success: "&6&l[!] &eYou have successfully reloaded DisableCrafting."
+    success: '&6&l[!] &eYou have successfully reloaded DisableCrafting.'
